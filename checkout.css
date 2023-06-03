@@ -1,0 +1,13 @@
+@charset "UTF-8";
+main{
+    background-color: white;
+}
+body{ background-color: white;}
+footer{
+    background-color: rgb(95, 202, 245);
+    margin-bottom: 10px;
+}
+
+h4{
+    text-align: center;
+}
